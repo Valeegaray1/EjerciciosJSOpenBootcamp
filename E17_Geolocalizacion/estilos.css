@@ -1,0 +1,9 @@
+#map {
+    height: 90%;
+  }
+html,
+body {
+    height: 90%;
+    margin: 0;
+    padding: 0;
+  }
